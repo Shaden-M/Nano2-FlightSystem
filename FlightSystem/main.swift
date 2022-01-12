@@ -33,10 +33,13 @@ if let tripType = readLine(){
         print(Name,"Your flight has been booked")
     }
     else {
-        print("I Can't recognize your input")
+        print("I Can't recognize your input.")
+        print("--------")
     }
   
 }
+
+
 
 
 
